@@ -1,0 +1,28 @@
+{
+    "settlement": [
+        {
+            "name": "GreenField",
+            "leader_name": "Yorath",
+            "governement_type": "Theocracy.",
+            "settlement_known_for": "Wines",
+            "settlement_trait": "Population mostly wealthy",
+            "settlement_trouble": "Marauding monsters"
+        },
+        {
+            "name": "FrostWick",
+            "leader_name": "Cortina",
+            "governement_type": "Monarchy.",
+            "settlement_known_for": "Wines",
+            "settlement_trait": "Large fortress",
+            "settlement_trouble": "War between rival thieves' guilds"
+        },
+        {
+            "name": "LowWick",
+            "leader_name": "Emelyn",
+            "governement_type": "Hierarchy.",
+            "settlement_known_for": "Artists and writers",
+            "settlement_trait": "Worship of all gods banned",
+            "settlement_trouble": "Scandal threatens powerful families"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Gunnlaugr",
+    "edge": "4",
+    "heart": "2",
+    "iron": "3",
+    "shadow": "2",
+    "wits": "3",
+    "health": 1,
+    "spirit": 0,
+    "supply": 1,
+    "momentum": 6,
+    "xp": "2",
+    "xp_spent": "0",
+    "wounded": false,
+    "shaken": false,
+    "unprepared": false,
+    "encumbered": false,
+    "corrupted": false,
+    "cursed": false,
+    "maimed": false,
+    "tormented": false
+}

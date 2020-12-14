@@ -1,0 +1,74 @@
+{
+    "npc": [
+        {
+            "name": "Yorath",
+            "stance": "Unfriendly",
+            "role": "Mercenary",
+            "goal": "Make an agreement",
+            "descriptor_001": "Old",
+            "descriptor_002": "Sick",
+            "descriptor_003": "Experienced",
+            "bounded": "False"
+        },
+        {
+            "name": "Torgan",
+            "stance": "Friendly",
+            "role": "Mystic",
+            "goal": "Collect a debt",
+            "descriptor_001": "Cunning",
+            "descriptor_002": "Timid",
+            "descriptor_003": "Dangerous",
+            "bounded": "False"
+        },
+        {
+            "name": "Jihan",
+            "stance": "Unfriendly",
+            "role": "Leader",
+            "goal": "Enrich themselves",
+            "descriptor_001": "Incompetent",
+            "descriptor_002": "Proud",
+            "descriptor_003": "Incompetent",
+            "bounded": "False"
+        },
+        {
+            "name": "Akiya",
+            "stance": "Unfriendly",
+            "role": "Guard",
+            "goal": "Collect a debt",
+            "descriptor_001": "Fervent",
+            "descriptor_002": "Aloof",
+            "descriptor_003": "Driven",
+            "bounded": "False"
+        },
+        {
+            "name": "Cortina",
+            "stance": "Friendly",
+            "role": "Farmer",
+            "goal": "Find a person",
+            "descriptor_001": "Reclusive",
+            "descriptor_002": "Jealous",
+            "descriptor_003": "Aggressive",
+            "bounded": "False"
+        },
+        {
+            "name": "Emelyn",
+            "stance": "Friendly",
+            "role": "Traveler",
+            "goal": "Defend a place",
+            "descriptor_001": "Affectionate",
+            "descriptor_002": "Remorseful",
+            "descriptor_003": "Doomed",
+            "bounded": "False"
+        },
+        {
+            "name": "Caldas",
+            "stance": "Friendly",
+            "role": "Performer",
+            "goal": "Find a home",
+            "descriptor_001": "Aloof",
+            "descriptor_002": "Timid",
+            "descriptor_003": "Athletic",
+            "bounded": "False"
+        }
+    ]
+}

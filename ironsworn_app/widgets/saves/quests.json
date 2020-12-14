@@ -1,0 +1,52 @@
+{
+    "quests": [
+        {
+            "name": "Cure an ill at Greenfield",
+            "ranking": 4,
+            "progress": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "name": "Jihan Leader of Greenfield has been captured. Save Her.",
+            "ranking": 1,
+            "progress": [
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4,
+                4
+            ]
+        },
+        {
+            "name": "Escort Caldas to LowWick.",
+            "ranking": 0,
+            "progress": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}
